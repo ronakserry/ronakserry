@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ronakserry
-- 👀 I’m interested in data science 
+- 👀 I’m interested in data science and developing open programs
 - 🌱 I’m currently learning python and its libraries.
 - 📫 How to reach me is this GitHub account 
 - 😄 Pronouns: her/she
